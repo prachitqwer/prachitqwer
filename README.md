@@ -8,6 +8,8 @@ Before this I was a business analyst at Banking Circle (data validation, traceab
 
 These projects share one fictional client, Northstar Systems, a mid-sized SaaS company. The company and its people are made up. The code, the checks, the tests and the results are real, and each repository can be re-run from a clean clone.
 
+Short version: [three one-page case studies (PDF)](case-studies.pdf), about two minutes each.
+
 | Project | What it covers | Tools |
 |---|---|---|
 | [RequirementsIQ](https://github.com/prachitqwer/RequirementsIQ) | Requirements for Northstar's product team. Stakeholder notes go in; reviewed requirements, user stories with acceptance criteria and UAT test cases come out, with approvals, traceability and a Jira import file. It includes an AI drafting step, and nothing counts until a named reviewer approves it. | Python, SQLite, Streamlit, Power BI, Jira |
